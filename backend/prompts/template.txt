@@ -1,0 +1,14 @@
+Generate ads using same style as the example.
+
+Product: {product}
+Audience: {audience}
+Festival: {festival}
+
+Output:
+1. 10 Hooks
+2. 3 Headlines
+3. 3 Primary Texts
+4. WhatsApp Promo
+5. 15-second UGC Script
+6. Festival Variant
+7. 5 Hashtags
